@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Abdelrahman ( aka oPinqzz ) ,  Plugin Developer & DevOps Learner<br><br>Welcome, I'm oPinqzz, Who Develops and Program Plugins For More Than 4 Years OF Experience, In PHP<br>And Java For Bedrock Edition Of Minecraft, Softwares like : PMMP, WDPE,<br><br>I'm Learning To Be a DevOps Developer, Still in High School<br><br>The Founder and Administrator of Pixals Network,<br><br>Core Developer at Lyra Network<br><br>Plugin Developer at Rebillion<br><br>( i know i does alot of Minecraft Stuff )
+Hello I'm Abdelrahman ( aka oPinqzz ) ,  Plugin Developer & DevOps Learner<br><br>Welcome, I'm oPinqzz, Who Develops and Program Plugins For More Than 4 Years OF Experience, In PHP<br>And Java For Bedrock Edition Of Minecraft, Softwares like : PMMP, WDPE,<br><br>I'm Learning To Be a DevOps Developer, Still in High School<br><br>The Founder and Administrator of Pixals Network<br><br>( i know i does alot of Minecraft Stuff )
 
 
 ## 🌐 Socials:
